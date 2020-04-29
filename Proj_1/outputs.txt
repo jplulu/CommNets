@@ -1,0 +1,187 @@
+192.168.0.11, 54.84.204.111, id.geistm.com, Amazon Technologies Inc.
+192.168.0.11, 52.6.63.31, vop.sundaysky.com, Amazon Technologies Inc.
+192.168.0.11, 34.199.49.125, sync.crwdcntrl.net, Amazon Technologies Inc.
+192.168.0.11, 74.119.119.151, bidder.criteo.com, Criteo Corp.
+192.168.0.11, 172.217.6.230, ff.doubleclick.net, Google LLC
+192.168.0.11, 3.211.248.153, r.dlx.addthis.com, Amazon Data Services NoVa
+192.168.0.11, 172.217.7.2, adservice.google.com, Google LLC
+192.168.0.11, 172.253.122.188, mtalk.google.com, Google LLC
+192.168.0.11, 199.232.36.157, static.ads-twitter.com, Fastly
+192.168.0.11, 13.107.21.200, bat.bing.com, Microsoft Corporation
+192.168.0.11, 199.232.37.194, clarium.global.ssl.fastly.net, Fastly
+192.168.0.11, 35.211.168.6, sofia.trustx.org, Google LLC
+192.168.0.11, 74.119.119.131, static.criteo.net, Criteo Corp.
+192.168.0.11, 23.43.255.55, tcheck.outbrainimg.com, Akamai Technologies, Inc.
+192.168.0.11, 147.75.39.192, loadus.exelator.com, Packet Host, Inc.
+192.168.0.11, 23.41.190.194, px.moatads.com, Akamai Technologies, Inc.
+192.168.0.11, 23.48.20.100, sb.scorecardresearch.com, Akamai Technologies, Inc.
+192.168.0.11, 50.115.92.11, use-va1.adsrvr.org, Unitas Global LLC
+192.168.0.11, 23.43.255.148, cdn3.doubleverify.com, Akamai Technologies, Inc.
+192.168.0.11, 192.243.250.58, cm.everesttech.net, Adobe Systems Inc.
+192.168.0.11, 54.85.252.51, l.betrad.com, Amazon Technologies Inc.
+192.168.0.11, 172.217.10.138, fonts.googleapis.com, Google LLC
+192.168.0.11, 184.87.66.86, a125375509.cdn.optimizely.com, Akamai Technologies, Inc.
+192.168.0.11, 185.167.164.39, c1.adform.net, None
+192.168.0.11, 34.98.72.95, assets.bounceexchange.com, Google LLC
+192.168.0.11, 23.208.59.46, c.betrad.com, Akamai Technologies, Inc.
+192.168.0.11, 35.172.83.233, mabping.chartbeat.net, Amazon Technologies Inc.
+192.168.0.11, 52.201.141.233, usermatch.krxd.net, Amazon Technologies Inc.
+192.168.0.11, 54.208.111.65, events.api.boomtrain.com, Amazon Technologies Inc.
+192.168.0.11, 75.98.70.72, bea4.cnn.com, Internap Corporation
+192.168.0.11, 23.43.254.235, thetradedeskv275874568748.s.moatpixel.com, Akamai Technologies, Inc.
+192.168.0.11, 18.214.22.9, jslog.krxd.net, Amazon Technologies Inc.
+192.168.0.11, 34.231.77.190, sync.bfmio.com, Amazon Technologies Inc.
+192.168.0.11, 172.217.9.226, www.googletagservices.com, Google LLC
+192.168.0.11, 104.16.89.20, cdn.jsdelivr.net, Cloudflare, Inc.
+192.168.0.11, 72.21.91.113, tags.crwdcntrl.net, MCI Communications Services, Inc. d/b/a Verizon Business
+192.168.0.11, 104.17.65.4, cdnjs.cloudflare.com, Cloudflare, Inc.
+192.168.0.11, 192.35.249.120, sync.search.spotxchange.com, SpotX, Inc.
+192.168.0.11, 23.41.190.194, z.moatads.com, Akamai Technologies, Inc.
+192.168.0.11, 199.232.37.67, www.cnn.com, Fastly
+192.168.0.11, 69.147.82.60, ads.yahoo.com, Oath Holdings Inc.
+192.168.0.11, 4.78.226.225, aep.mxptint.net, Level 3 Parent, LLC
+192.168.0.11, 94.237.121.81, cnn.sdk.beemray.com, UpCloud Cloud Servers
+192.168.0.11, 23.41.190.73, amplify.outbrain.com, Akamai Technologies, Inc.
+192.168.0.11, 18.214.203.220, magnetic.t.domdex.com, Amazon Technologies Inc.
+192.168.0.11, 13.226.36.124, d9t9vcvz5fqud.cloudfront.net, Amazon Technologies Inc.
+192.168.0.11, 35.172.8.7, people.api.boomtrain.com, Amazon Technologies Inc.
+192.168.0.11, 209.204.229.199, a3027.casalemedia.com, Index Exchange Inc.
+192.168.0.11, 74.119.119.150, dis.criteo.com, Criteo Corp.
+192.168.0.11, 104.244.42.67, analytics.twitter.com, Twitter Inc.
+192.168.0.11, 172.217.12.170, safebrowsing.googleapis.com, Google LLC
+192.168.0.11, 172.217.10.2, pagead2.googlesyndication.com, Google LLC
+192.168.0.11, 199.232.38.133, s.w-x.co, Fastly
+192.168.0.11, 23.66.61.77, as-sec.casalemedia.com, Akamai Technologies, Inc.
+192.168.0.11, 3.93.122.255, www.ugdturner.com, Amazon Data Services NoVa
+192.168.0.11, 85.114.159.118, dsp.adfarm1.adition.com, None
+192.168.0.11, 52.3.121.18, match.adsrvr.org, Amazon Technologies Inc.
+192.168.0.11, 23.201.27.226, eus.rubiconproject.com, Akamai Technologies, Inc.
+192.168.0.11, 31.13.71.2, cx.atdmt.com, None
+192.168.0.11, 13.226.39.88, choices.trustarc.com, Amazon Technologies Inc.
+192.168.0.11, 199.232.38.202, mab.chartbeat.com, Fastly
+192.168.0.11, 199.232.38.2, odb.outbrain.com, Fastly
+192.168.0.11, 70.42.32.127, sync.outbrain.com, Internap Corporation
+192.168.0.11, 13.225.202.14, c.amazon-adsystem.com, Amazon Technologies Inc.
+192.168.0.11, 23.54.160.25, s.cdn.turner.com, Akamai Technologies, Inc.
+192.168.0.11, 23.40.20.53, api.weather.com, Akamai Technologies, Inc.
+192.168.0.11, 52.168.140.71, px.powerlinks.com, Microsoft Corporation
+192.168.0.11, 3.81.244.112, sync.tidaltv.com, Amazon Data Services NoVa
+192.168.0.11, 52.205.67.244, dpm.demdex.net, Amazon Technologies Inc.
+192.168.0.11, 34.233.64.71, logx.optimizely.com, Amazon Technologies Inc.
+192.168.0.11, 54.175.89.77, ping.chartbeat.net, Amazon Technologies Inc.
+192.168.0.11, 104.17.120.107, cookie.brealtime.com, Cloudflare, Inc.
+192.168.0.11, 104.16.13.243, cd.navdmp.com, Cloudflare, Inc.
+192.168.0.11, 23.208.60.141, c.evidon.com, Akamai Technologies, Inc.
+192.168.0.11, 35.190.62.200, events.bouncex.net, Google LLC
+192.168.0.11, 172.217.10.98, pubads.g.doubleclick.net, Google LLC
+192.168.0.11, 3.92.109.57, insight.adsrvr.org, Amazon Data Services NoVa
+192.168.0.11, 185.86.137.121, ssbsync.smartadserver.com, Prod-1
+192.168.0.11, 169.63.150.234, triggers.wfxtriggers.com, None
+192.168.0.11, 199.232.36.175, cdn.krxd.net, Fastly
+192.168.0.11, 68.67.179.113, secure.adnxs.com, AppNexus, Inc
+192.168.0.11, 3.219.244.74, sodc.weather.com, Amazon Data Services NoVa
+192.168.0.11, 23.41.189.181, js-sec.indexww.com, Akamai Technologies, Inc.
+192.168.0.11, 172.217.7.6, s0.2mdn.net, Google LLC
+192.168.0.11, 72.21.206.140, s.amazon-adsystem.com, Amazon.com, Inc.
+192.168.0.11, 54.83.83.224, beacon.krxd.net, Amazon Technologies Inc.
+192.168.0.11, 52.205.199.154, smetrics.cnn.com, Amazon Technologies Inc.
+192.168.0.11, 70.42.32.127, b1sync.zemanta.com, Internap Corporation
+192.168.0.11, 184.87.69.184, cdn3.optimizely.com, Akamai Technologies, Inc.
+192.168.0.11, 184.87.80.47, tags.bluekai.com, Akamai Technologies, Inc.
+192.168.0.11, 35.190.72.21, api.rlcdn.com, Google LLC
+192.168.0.11, 199.232.36.64, img.bleacherreport.net, Fastly
+192.168.0.11, 50.17.112.123, id.sharedid.org, Amazon.com, Inc.
+192.168.0.11, 52.202.218.23, mid.rkdms.com, Amazon Technologies Inc.
+192.168.0.11, 184.87.73.80, secure-assets.rubiconproject.com, Akamai Technologies, Inc.
+192.168.0.11, 69.166.1.10, sync.go.sonobi.com, XFERNET
+192.168.0.11, 13.225.212.84, healthguides.cnn.com, Amazon Technologies Inc.
+192.168.0.11, 74.6.138.75, pr-bh.ybp.yahoo.com, Oath Holdings Inc.
+192.168.0.11, 34.195.69.123, ad.crwdcntrl.net, Amazon Technologies Inc.
+192.168.0.11, 34.199.49.125, bcp.crwdcntrl.net, Amazon Technologies Inc.
+192.168.0.11, 204.154.111.109, tps.doubleverify.com, DoubleVerify, Inc.
+192.168.0.11, 199.232.38.109, cdn.polyfill.io, Fastly
+192.168.0.11, 34.226.71.106, w.usabilla.com, Amazon Technologies Inc.
+192.168.0.11, 199.232.37.108, acdn.adnxs.com, Fastly
+192.168.0.11, 107.178.254.65, pippio.com, Google LLC
+192.168.0.11, 104.26.2.116, tru.am, Cloudflare, Inc.
+192.168.0.11, 31.13.71.36, www.facebook.com, None
+192.168.0.11, 18.211.214.192, geo.moatads.com, Amazon Technologies Inc.
+192.168.0.11, 172.217.6.227, ssl.gstatic.com, Google LLC
+192.168.0.11, 152.199.6.24, adserver-us.adtech.advertising.com, ANS Communications, Inc
+192.168.0.11, 35.207.24.140, rtb.mfadsrvr.com, Google LLC
+192.168.0.11, 3.134.55.82, mb.moatads.com, Amazon Technologies Inc.
+192.168.0.11, 50.116.194.21, ad.turn.com, Turn Inc.
+192.168.0.11, 23.22.57.176, pixel.adsafeprotected.com, Amazon.com, Inc.
+192.168.0.11, 35.227.229.34, cnn.bounceexchange.com, Google LLC
+192.168.0.11, 209.15.224.17, use-tor.adsrvr.org, Peer 1 Hosting Toronto
+192.168.0.11, 209.197.3.15, maxcdn.bootstrapcdn.com, Highwinds Network Group, Inc.
+192.168.0.11, 52.216.184.195, gw-crs-assets.s3.amazonaws.com, Amazon Technologies Inc.
+192.168.0.11, 107.23.99.139, r.nexac.com, Amazon.com, Inc.
+192.168.0.11, 64.202.112.63, tr.outbrain.com, Server Central Network
+192.168.0.11, 199.232.37.175, nebula-cdn.kampyle.com, Fastly
+192.168.0.11, 13.226.39.38, cdn.adsafeprotected.com, Amazon Technologies Inc.
+192.168.0.11, 35.211.114.141, x.bidswitch.net, Google LLC
+192.168.0.11, 52.202.212.148, match.sharethrough.com, Amazon Technologies Inc.
+192.168.0.11, 202.241.208.100, tg.socdm.com, Japan Network Information Center
+192.168.0.11, 192.132.33.46, bttrack.com, Bidtellect Inc.
+192.168.0.11, 52.7.131.174, rtb.adentifi.com, Amazon Technologies Inc.
+192.168.0.11, 52.73.246.71, ml314.com, Amazon Technologies Inc.
+192.168.0.11, 18.210.34.44, turner2.demdex.net, Amazon Technologies Inc.
+192.168.0.11, 54.208.15.78, e1.emxdgt.com, Amazon Technologies Inc.
+192.168.0.11, 52.202.0.127, ups.analytics.yahoo.com, Amazon Technologies Inc.
+192.168.0.11, 13.225.208.80, cdn.segment.com, Amazon Technologies Inc.
+192.168.0.11, 13.225.212.7, static.adsafeprotected.com, Amazon Technologies Inc.
+192.168.0.11, 35.244.144.168, tag.bounceexchange.com, Google LLC
+192.168.0.11, 172.217.6.196, www.google.com, Google LLC
+192.168.0.11, 23.201.25.31, cdn.cnn.com, Akamai Technologies, Inc.
+192.168.0.11, 13.225.68.201, ad.adsrvr.org, Amazon Technologies Inc.
+192.168.0.11, 34.238.180.60, ads.yieldmo.com, Amazon Technologies Inc.
+192.168.0.11, 13.225.62.9, cdn.boomtrain.com, Amazon Technologies Inc.
+192.168.0.11, 207.186.149.230, traffic.prod.cobaltgroup.com, CDK Global, LLC
+192.168.0.11, 199.232.38.49, sync-tm.everesttech.net, Fastly
+192.168.0.11, 23.66.100.132, cdn.doubleverify.com, Akamai Technologies, Inc.
+192.168.0.11, 75.98.70.37, bea4.v.fwmrm.net, Internap Corporation
+192.168.0.11, 35.169.87.93, cm.smadex.com, Amazon Technologies Inc.
+192.168.0.11, 199.232.36.175, consumer.krxd.net, Fastly
+192.168.0.11, 13.225.62.23, choices.truste.com, Amazon Technologies Inc.
+192.168.0.11, 104.20.185.68, geolocation.onetrust.com, Cloudflare, Inc.
+192.168.0.11, 70.42.32.63, log.outbrainimg.com, Internap Corporation
+192.168.0.11, 152.195.33.69, cdn.cookielaw.org, ANS Communications, Inc
+192.168.0.11, 104.18.252.222, widgets.tree.com, Cloudflare, Inc.
+192.168.0.11, 172.217.6.200, www.googletagmanager.com, Google LLC
+192.168.0.11, 13.225.62.77, d.agkn.com, Amazon Technologies Inc.
+192.168.0.11, 185.184.8.30, creativecdn.com, None
+192.168.0.11, 34.193.8.205, zion.api.cnn.io, Amazon Technologies Inc.
+192.168.0.11, 199.38.167.128, a.rfihub.com, X Plus One Solutions, Inc.
+192.168.0.11, 52.54.163.44, sync.extend.tv, Amazon Technologies Inc.
+192.168.0.11, 52.72.8.164, gm.demdex.net, Amazon Technologies Inc.
+192.168.0.11, 52.68.22.25, sync-jp.im-apps.net, Amazon Data Services Japan
+192.168.0.11, 172.217.3.110, clients1.google.com, Google LLC
+192.168.0.11, 23.41.190.73, widgets.outbrain.com, Akamai Technologies, Inc.
+192.168.0.11, 195.181.169.26, load77.exelator.com, None
+192.168.0.11, 70.42.32.127, amplifypixel.outbrain.com, Internap Corporation
+192.168.0.11, 13.225.71.211, static.chartbeat.com, Amazon Technologies Inc.
+192.168.0.11, 172.217.11.2, googleads4.g.doubleclick.net, Google LLC
+192.168.0.11, 63.251.88.56, aa.agkn.com, Internap Corporation
+192.168.0.11, 23.40.20.53, weather.com, Akamai Technologies, Inc.
+192.168.0.11, 104.244.42.133, t.co, Twitter Inc.
+192.168.0.11, 35.244.186.129, weatherus-d.openx.net, Google LLC
+192.168.0.11, 54.219.156.120, dt.admission.net, Amazon.com, Inc.
+192.168.0.11, 8.43.72.97, token.rubiconproject.com, Level 3 Parent, LLC
+192.168.0.11, 68.67.160.78, ib.adnxs.com, AppNexus, Inc
+192.168.0.11, 34.197.12.75, secure-us.imrworldwide.com, Amazon Technologies Inc.
+192.168.0.11, 23.41.189.181, ssum-sec.casalemedia.com, Akamai Technologies, Inc.
+192.168.0.11, 172.217.12.162, securepubads.g.doubleclick.net, Google LLC
+192.168.0.11, 34.230.132.117, eb2.3lift.com, Amazon Technologies Inc.
+192.168.0.11, 199.232.37.67, www.i.cdn.cnn.com, Fastly
+192.168.0.11, 54.69.32.46, api.segment.io, Amazon Technologies Inc.
+192.168.0.11, 52.55.144.0, ps.eyeota.net, Amazon Technologies Inc.
+192.168.0.11, 8.43.72.98, pixel-us-east.rubiconproject.com, Level 3 Parent, LLC
+192.168.0.11, 3.234.31.129, agility.cnn.com, Amazon Technologies Inc.
+192.168.0.11, 52.216.186.142, gw-crs-assets.s3.us-east-1.amazonaws.com, Amazon Technologies Inc.
+192.168.0.11, 70.42.32.63, mcdp-nydc1.outbrain.com, Internap Corporation
+192.168.0.11, 172.217.12.166, ad.doubleclick.net, Google LLC
+192.168.0.11, 8.43.72.97, pixel.rubiconproject.com, Level 3 Parent, LLC
+192.168.0.11, 172.217.3.97, tpc.googlesyndication.com, Google LLC
+192.168.0.11, 31.13.71.7, connect.facebook.net, None
+192.168.0.11, 8.43.72.62, fastlane.rubiconproject.com, Level 3 Parent, LLC
