@@ -6,20 +6,20 @@ import datetime
 
 def get_messages(user):
     # MODIFY URL TO AMAZON VIRTUAL SERVER ADDRESS
-    url = f'http://localhost/?user={user}'
+    url = 'http://localhost/?user={}'.format(user)
     r = requests.get(url)
     last_refresh = datetime.datetime.now()
     json_response = json.loads(r.text)
     messages = json_response["response"]["messages"]
     print("Your messages: ")
     for m in messages:
-        print(f'({m["sender"]}) {m["value"]}')
+        print('({}) {}'.format(m["sender"], m["value"]))
     return last_refresh
 
 
 def refresh_messages(user, last_refresh):
     # MODIFY URL TO AMAZON VIRTUAL SERVER ADDRESS
-    url = f'http://localhost/?user={user}'
+    url = 'http://localhost/?user={}'.format(user)
     r = requests.get(url)
     new_refresh = datetime.datetime.now()
     json_response = json.loads(r.text)
@@ -27,7 +27,7 @@ def refresh_messages(user, last_refresh):
     for m in messages:
         temp_time = datetime.datetime.strptime(m["sendTime"], '%m/%d/%y %H:%M:%S')
         if temp_time > last_refresh:
-            print(f'({m["sender"]}) {m["value"]}')
+            print('({}) {}'.format(m["sender"], m["value"]))
     return new_refresh
 
 

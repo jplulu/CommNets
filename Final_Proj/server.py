@@ -58,7 +58,7 @@ def main():
     PORT = 80
     server_address = ('', PORT)
     server = HTTPServer(server_address, RequestHandler)
-    print(f'Server running on port {PORT}')
+    print('Server running on port {}'.format(PORT))
     server.serve_forever()
 
 
